@@ -9,4 +9,5 @@ Bar_label_demo
 Horizontal bar chart
 ---
 To add "error bar" giving argument of xerrr
+
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/5ec51f37-c867-4fa0-a92b-bcbfd0817305)
