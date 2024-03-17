@@ -13,3 +13,9 @@ Horizontal bar chart
 To add "error bar" giving argument of "xerrr"
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/5ec51f37-c867-4fa0-a92b-bcbfd0817305)
+
+Bar_Stacked
+---
+for iteration "boolean, count" in array.items():
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/adceb872-d530-430c-917d-33df1c019a48)
