@@ -19,3 +19,10 @@ Bar_Stacked
 for iteration "boolean, count" in array.items():
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/adceb872-d530-430c-917d-33df1c019a48)
+
+
+Bar_Grouped
+--
+To control the space with "offset" in x data argument
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/eda55d29-5df6-4b07-b5fc-e8d7c7377f3e)
