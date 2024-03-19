@@ -26,3 +26,10 @@ Bar_Grouped
 To control the space with "offset" in x data argument
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/eda55d29-5df6-4b07-b5fc-e8d7c7377f3e)
+
+fill_between
+---
+to fill some region between two lines with colors, use "fill_between(base_axis, upper line, lower line, where condition)"
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/01700ba3-c929-4970-8b13-b5a7d15ffe6a)![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/9b0798f8-06d7-4abe-9c34-42fdc2f99531)
+
