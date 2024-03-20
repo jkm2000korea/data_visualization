@@ -33,3 +33,10 @@ to fill some region between two lines with colors, use "fill_between(base_axis, 
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/01700ba3-c929-4970-8b13-b5a7d15ffe6a)![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/9b0798f8-06d7-4abe-9c34-42fdc2f99531)
 
+Staked horizontal bar chart
+--
+To draw a stacked bar, use the function of ax.barh(labels, widths, left=starts...). Argument "left" has the same role as "bottom" in ax.bar function
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/a58fc287-f740-4bd0-a723-fab897b86f53)
+
+
