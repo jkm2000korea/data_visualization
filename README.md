@@ -39,4 +39,10 @@ To draw a stacked bar, use the function of ax.barh(labels, widths, left=starts..
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/a58fc287-f740-4bd0-a723-fab897b86f53)
 
+Bot plot vs. Scatter plot
+--
+The difference between them is violin plots show the whole range of the data with the distribution 
+function is nothing special. violinplot(), boxplot()
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/b51fbc5f-746a-408f-b643-15ecc560174a)
 
