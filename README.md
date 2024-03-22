@@ -46,3 +46,8 @@ function is nothing special. violinplot(), boxplot()
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/b51fbc5f-746a-408f-b643-15ecc560174a)
 
+Time line Chart
+--
+to make 3 variables one(1) and use iteration with zip(dates, levels, names) 
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/741a4fc2-dfe2-4b7c-8ac8-4bcf6e742d94)
