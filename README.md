@@ -58,3 +58,9 @@ To make construction time line chart using chatGPT
 even though the order of construction and duration is not right, it can be revised with domain knowledge
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/643443fc-839d-4300-8807-9401044aa310)
+
+To draw bubble chart with 3 variables
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/1ba5ac4a-e5df-4863-be29-b282020af506)
+
+
