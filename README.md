@@ -1,3 +1,23 @@
+McKinsey Priority Matrix based on Scatter maskted from matplotlib
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/7226c7b5-60df-45a1-8d71-d0bd09d59c44) ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/02c50511-bfd8-4fa1-8f85-f8eada6c2833)
+
+To draw bubble chart with 3 variables
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/1ba5ac4a-e5df-4863-be29-b282020af506)
+
+To make construction time line chart using chatGPT 
+-- 
+even though the order of construction and duration is not right, it can be revised with domain knowledge
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/643443fc-839d-4300-8807-9401044aa310)
+
+Time line Chart
+--
+to make 3 variables one(1) and use iteration with zip(dates, levels, names) 
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/741a4fc2-dfe2-4b7c-8ac8-4bcf6e742d94)
+
 Bar color demo
 ---
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/f99a88fa-cb67-4a35-811a-d62095bbe4eb)
@@ -46,25 +66,10 @@ function is nothing special. violinplot(), boxplot()
 
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/b51fbc5f-746a-408f-b643-15ecc560174a)
 
-Time line Chart
---
-to make 3 variables one(1) and use iteration with zip(dates, levels, names) 
-
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/741a4fc2-dfe2-4b7c-8ac8-4bcf6e742d94)
 
 
-To make construction time line chart using chatGPT 
--- 
-even though the order of construction and duration is not right, it can be revised with domain knowledge
 
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/643443fc-839d-4300-8807-9401044aa310)
 
-To draw bubble chart with 3 variables
----
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/1ba5ac4a-e5df-4863-be29-b282020af506)
 
-McKinsey Priority Matrix based on Scatter maskted from matplotlib
----
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/7226c7b5-60df-45a1-8d71-d0bd09d59c44) ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/02c50511-bfd8-4fa1-8f85-f8eada6c2833)
 
 
