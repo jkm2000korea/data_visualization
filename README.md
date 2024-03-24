@@ -65,6 +65,6 @@ To draw bubble chart with 3 variables
 
 McKinsey Priority Matrix based on Scatter maskted from matplotlib
 ---
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/99d0c86a-5f6e-4eaa-aaf5-9dec9c219454)
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/e28e077d-986a-4fb6-925f-b791a430f902)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/7226c7b5-60df-45a1-8d71-d0bd09d59c44) ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/02c50511-bfd8-4fa1-8f85-f8eada6c2833)
+
 
