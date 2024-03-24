@@ -63,4 +63,8 @@ To draw bubble chart with 3 variables
 ---
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/1ba5ac4a-e5df-4863-be29-b282020af506)
 
+McKinsey Priority Matrix based on Scatter maskted from matplotlib
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/99d0c86a-5f6e-4eaa-aaf5-9dec9c219454)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/e28e077d-986a-4fb6-925f-b791a430f902)
 
