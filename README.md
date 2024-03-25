@@ -1,6 +1,6 @@
 To change colors with if condition clause
 ---
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/7d56a3bc-e186-4bdd-9dad-bf818bcac16d)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/ec5849dc-0e85-44a0-afb9-acac5d47f9fd)
 
 
 McKinsey Priority Matrix based on Scatter maskted from matplotlib
