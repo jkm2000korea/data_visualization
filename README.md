@@ -1,6 +1,13 @@
+To change colors with if condition clause
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/7d56a3bc-e186-4bdd-9dad-bf818bcac16d)
+
+
 McKinsey Priority Matrix based on Scatter maskted from matplotlib
 ---
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/7226c7b5-60df-45a1-8d71-d0bd09d59c44) ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/02c50511-bfd8-4fa1-8f85-f8eada6c2833)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/f7b06c76-6860-48a2-8545-396a290a7643) ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/d5fcde1a-1c96-4457-aa55-c465d6aee0ed)
+
+
 
 To draw bubble chart with 3 variables
 ---
