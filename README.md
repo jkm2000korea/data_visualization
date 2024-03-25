@@ -5,7 +5,8 @@ To change colors with if condition clause
 
 McKinsey Priority Matrix based on Scatter maskted from matplotlib
 ---
-![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/f7b06c76-6860-48a2-8545-396a290a7643) ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/d5fcde1a-1c96-4457-aa55-c465d6aee0ed)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/318663d6-2215-46ab-a699-4e1f1ef93ad9)![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/394e27b3-95d9-4889-92a2-11e340e008fe)
+
 
 
 
