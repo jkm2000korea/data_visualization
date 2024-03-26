@@ -1,5 +1,6 @@
 To change colors with if condition clause
 ---
+['green' if y > 0 else 'red' for y in y_values]
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/ec5849dc-0e85-44a0-afb9-acac5d47f9fd)
 
 
