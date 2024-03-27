@@ -1,3 +1,8 @@
+Cumulative distribution
+--
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/ef6ccc57-b35e-4a79-8a2e-4c3e2619355a)
+
+
 To change colors with if condition clause
 ---
 ['green' if y > 0 else 'red' for y in y_values]
