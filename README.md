@@ -1,3 +1,9 @@
+## hexagon company
+---
+
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/0648b50d-b98d-4b32-ac73-2778cab571b4)
+
+
 Cumulative distribution
 --
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/ef6ccc57-b35e-4a79-8a2e-4c3e2619355a)
