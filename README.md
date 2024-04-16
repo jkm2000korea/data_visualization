@@ -1,4 +1,9 @@
-Hexagon company
+Hexagonal talent
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/838885dd-b607-438f-a1b0-ac3dbe5f80f3)
+
+
+Hexagonal company
 ---
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/0648b50d-b98d-4b32-ac73-2778cab571b4)
 
