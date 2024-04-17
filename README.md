@@ -1,3 +1,8 @@
+Analysis of average lunch time data by department
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/5cecb419-2dfa-4197-b76f-653540b89758)
+
+
 Hexagonal talent
 ---
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/838885dd-b607-438f-a1b0-ac3dbe5f80f3)
