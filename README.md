@@ -1,4 +1,6 @@
-![image](https://matplotlib.org/stable/_images/sphx_glr_animated_histogram_thumb.gif)
+Animated histogram 
+---
+<img src = "(https://matplotlib.org/stable/_images/sphx_glr_animated_histogram_thumb.gif)" width="200%" height="200%">
 
 Analysis of average lunch time data by department
 ---
