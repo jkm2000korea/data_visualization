@@ -1,3 +1,5 @@
+https://matplotlib.org/stable/_images/sphx_glr_animated_histogram_thumb.gif
+
 Analysis of average lunch time data by department
 ---
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/5cecb419-2dfa-4197-b76f-653540b89758)
