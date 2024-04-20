@@ -1,3 +1,8 @@
+Bot plot with dots
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/5c3f38c9-14a9-401d-a517-268d41814f16)
+
+
 Animated histogram 
 ---
 <img src = "https://matplotlib.org/stable/_images/sphx_glr_animated_histogram_thumb.gif" width="80%" height="80%">
