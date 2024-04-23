@@ -1,3 +1,12 @@
+plotly_3d_plots
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/edfed233-3b2d-4fd7-8d6a-617c7b6790fa)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/02a4a907-ebe1-40cd-83d8-1d865ecdbf83)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/14f576c0-be94-4db4-b05c-31c6b25922c6)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/babc5f47-9082-497d-8532-e9b5e21567ae)
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/a3145852-ee0a-4313-ad75-f19cf4762cc5)
+
+
 Bot plot with dots
 ---
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/5c3f38c9-14a9-401d-a517-268d41814f16)
