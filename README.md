@@ -1,4 +1,9 @@
-plotly_3d_plots
+Stem plot
+---
+![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/4449ac60-52ba-4f5a-bc23-757374e336ee)
+
+
+Plotly_3d_plots
 ---
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/edfed233-3b2d-4fd7-8d6a-617c7b6790fa)
 ![image](https://github.com/jkm2000korea/data_visualization/assets/77305773/02a4a907-ebe1-40cd-83d8-1d865ecdbf83)
